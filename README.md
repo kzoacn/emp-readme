@@ -3,5 +3,6 @@
 
 ## Install for **CentOS**
 
-	wget https://github.com/kzoacn/emp-readme/blob/master/scripts/setup_new_machine.sh -O install.sh && bash install.sh`
+	wget https://github.com/kzoacn/emp-readme/blob/master/scripts/setup_new_machine.sh -O install.sh
+	bash install.sh`
 
